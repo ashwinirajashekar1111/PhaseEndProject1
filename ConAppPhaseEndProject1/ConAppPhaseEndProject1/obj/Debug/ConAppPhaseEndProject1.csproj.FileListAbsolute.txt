@@ -1,0 +1,7 @@
+C:\Mphasis -B233\PhaseEndproject1\ConAppPhaseEndProject1\ConAppPhaseEndProject1\bin\Debug\ConAppPhaseEndProject1.exe.config
+C:\Mphasis -B233\PhaseEndproject1\ConAppPhaseEndProject1\ConAppPhaseEndProject1\bin\Debug\ConAppPhaseEndProject1.exe
+C:\Mphasis -B233\PhaseEndproject1\ConAppPhaseEndProject1\ConAppPhaseEndProject1\bin\Debug\ConAppPhaseEndProject1.pdb
+C:\Mphasis -B233\PhaseEndproject1\ConAppPhaseEndProject1\ConAppPhaseEndProject1\obj\Debug\ConAppPhaseEndProject1.csproj.AssemblyReference.cache
+C:\Mphasis -B233\PhaseEndproject1\ConAppPhaseEndProject1\ConAppPhaseEndProject1\obj\Debug\ConAppPhaseEndProject1.csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\PhaseEndproject1\ConAppPhaseEndProject1\ConAppPhaseEndProject1\obj\Debug\ConAppPhaseEndProject1.exe
+C:\Mphasis -B233\PhaseEndproject1\ConAppPhaseEndProject1\ConAppPhaseEndProject1\obj\Debug\ConAppPhaseEndProject1.pdb
